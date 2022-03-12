@@ -10,6 +10,8 @@ import org.checkerframework.checker.units.qual.A;
 
 public class GoodItems {
     public static final Item STONE_ROD = registerItem("stone_rod",new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item IRON_ROD = registerItem("iron_rod",new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item GOLD_ROD = registerItem("gold_rod",new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
     private  static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(GoodMod.MOD_ID, name), item);
