@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "goodmod:block/compact_octuple_cobblestone"
+  }
+}

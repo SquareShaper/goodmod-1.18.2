@@ -1,5 +1,20 @@
 {
   "item.goodmod.stone_rod": "Stone Rod",
   "item.goodmod.iron_rod": "Iron Rod",
-  "item.goodmod.gold_rod": "Gold Rod"
+  "item.goodmod.gold_rod": "Gold Rod",
+
+  "block.goodmod.compact_cobblestone": "Compact Cobblestone",
+  "block.goodmod.compact_double_cobblestone": "Double Compacted Cobblestone",
+  "block.goodmod.compact_triple_cobblestone": "Triple Compacted Cobblestone",
+  "block.goodmod.compact_quadruple_cobblestone": "Quadruple Compacted Cobblestone",
+  "block.goodmod.compact_quintuple_cobblestone": "Quintuple Compacted Cobblestone",
+  "block.goodmod.compact_sextuple_cobblestone": "Sextuple Compacted Cobblestone",
+  "block.goodmod.compact_septuple_cobblestone": "Septuple Compacted Cobblestone",
+  "block.goodmod.compact_octuple_cobblestone": "Octuple Compacted Cobblestone",
+  "block.goodmod.compact_nonuple_cobblestone": "Nonuple Compacted Cobblestone",
+  "block.goodmod.compact_decuple_cobblestone": "Decuple Compacted Cobblestone",
+  "block.goodmod.compact_undecuple_cobblestone": "Undecuple Compacted Cobblestone",
+  "block.goodmod.compact_dodecuple_cobblestone": "Dodecuple Compacted Cobblestone",
+
+  "itemGroup.goodmod.square": "Square's random stuff"
 }

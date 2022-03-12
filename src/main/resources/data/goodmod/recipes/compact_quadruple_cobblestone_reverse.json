@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "goodmod:compact_quadruple_cobblestone"
+    }
+  ],
+  "result": {
+    "item": "goodmod:compact_triple_cobblestone",
+    "count": 9
+  }
+}
