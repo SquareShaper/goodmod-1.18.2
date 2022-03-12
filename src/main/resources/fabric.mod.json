@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "goodmod",
+  "version": "${version}",
+
+  "name": "Very good mod",
+  "description": "This is very good mod! Best mod ever made!",
+  "authors": [
+    "SquareShaper"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.squareshaper.goodmod.GoodMod"
+    ]
+  },
+  "mixins": [
+    "goodmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
