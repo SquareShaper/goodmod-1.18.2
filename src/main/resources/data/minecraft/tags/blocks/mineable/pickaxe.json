@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "goodmod:compact_cobblestone",
+    "goodmod:compact_double_cobblestone",
+    "goodmod:compact_triple_cobblestone",
+    "goodmod:compact_quadruple_cobblestone",
+    "goodmod:compact_quintuple_cobblestone",
+    "goodmod:compact_sextuple_cobblestone",
+    "goodmod:compact_septuple_cobblestone",
+    "goodmod:compact_octuple_cobblestone",
+    "goodmod:compact_nonuple_cobblestone",
+    "goodmod:compact_decuple_cobblestone",
+    "goodmod:compact_undecuple_cobblestone",
+    "goodmod:compact_dodecuple_cobblestone"
+  ]
+}
