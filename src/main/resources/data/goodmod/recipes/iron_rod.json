@@ -11,6 +11,7 @@
     }
   },
   "result": {
-    "item": "goodmod:gold_rod"
+    "item": "goodmod:gold_rod",
+    "count": 4
   }
 }
