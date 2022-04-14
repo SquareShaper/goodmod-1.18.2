@@ -13,6 +13,13 @@ public class GoodItems {
     public static final Item IRON_ROD = registerItem("iron_rod",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
     public static final Item GOLD_ROD = registerItem("gold_rod",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
     public static final Item COMPACTOR = registerItem("compactor",new CompactorItem(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
+    // INCOMPLETE ^^
+
+    public static final Item STONE_PIXEL = registerItem("stone_pixel",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
+    public static final Item IRON_PIXEL = registerItem("iron_pixel",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
+    public static final Item GOLD_PIXEL = registerItem("gold_pixel",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
+    public static final Item DIAMOND_PIXEL = registerItem("diamond_pixel",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
+    public static final Item NETHERITE_PIXEL = registerItem("netherite_pixel",new Item(new FabricItemSettings().group(GoodItemGroup.SQUARE)));
 
     private  static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(GoodMod.MOD_ID, name), item);

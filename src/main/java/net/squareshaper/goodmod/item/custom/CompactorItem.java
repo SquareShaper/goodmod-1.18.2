@@ -33,7 +33,7 @@ public class CompactorItem extends Item {
             GoodBlocks.COMPACT_UNDECUPLE_COBBLESTONE.asItem(),
             GoodBlocks.COMPACT_DODECUPLE_COBBLESTONE.asItem()
     };
-    @Override
+    @Override // INCOMPLETE /*
     public TypedActionResult<ItemStack> use(World world, PlayerEntity user, Hand hand) {
 		for (int i = 0; i < compactables.length-1; i++) {
 			if (canCompact(user.getInventory(),compactables,i)) {
@@ -48,7 +48,7 @@ public class CompactorItem extends Item {
 					user.sendMessage(new TranslatableText("lol" + user.age + " " + slot + " " + amount), false);
 				}
 			}
-		}
+		} // INCOMPLETE ^^ */
         return super.use(world,user,hand);
     }
 	private boolean canCompact(Inventory inv,Item[] allowedItems, int index)

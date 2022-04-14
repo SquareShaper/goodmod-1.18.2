@@ -3,6 +3,11 @@
   "item.goodmod.iron_rod": "Iron Rod",
   "item.goodmod.gold_rod": "Gold Rod",
   "item.goodmod.compactor": "Compactor",
+  "item.goodmod.stone_pixel": "Stone Pixel",
+  "item.goodmod.iron_pixel": "Iron Pixel",
+  "item.goodmod.gold_pixel": "Gold Pixel",
+  "item.goodmod.diamond_pixel": "Diamond Pixel",
+  "item.goodmod.netherite_pixel": "Netherite Pixel",
 
   "block.goodmod.compact_cobblestone": "Compact Cobblestone",
   "block.goodmod.compact_double_cobblestone": "Double Compacted Cobblestone",
